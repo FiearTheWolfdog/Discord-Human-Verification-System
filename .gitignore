@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller
+# Spec file
+*.spec
+# Bundles
+*.manifest
+*.bundle
+*.app
+# Generated executable(s)
+DiscordHVS.exe
+
+# Logs and reports
+*.log
+logs/
+*.coverage
+.coverage*
+.pytest_cache/
+.mypy_cache/
+
+# IDE/editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+env/
+.env
+.env.*

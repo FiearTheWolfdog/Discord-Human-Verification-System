@@ -1,0 +1,4 @@
+{"timestamp": "2025-11-01T19:00:44+00:00", "user_id": 246001239324753923, "user_name": "fiear", "status": "granted", "detail": "Assigned roles: FSC"}
+{"timestamp": "2025-11-01T19:01:03+00:00", "user_id": 246001239324753923, "user_name": "fiear", "status": "already_verified", "detail": "Roles already present"}
+{"timestamp": "2025-11-01T19:09:05+00:00", "user_id": 246001239324753923, "user_name": "fiear", "status": "challenge", "detail": "Captcha challenge issued"}
+{"timestamp": "2025-11-01T19:09:13+00:00", "user_id": 246001239324753923, "user_name": "fiear", "status": "granted", "detail": "Assigned roles: FSC; Removed roles: Not Verified"}
