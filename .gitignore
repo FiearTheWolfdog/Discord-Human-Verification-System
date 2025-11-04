@@ -23,7 +23,8 @@ dist/
 *.bundle
 *.app
 # Generated executable(s)
-DiscordHVS.exe
+# Track the root EXE for releases, but keep dist/ ignored
+!/DiscordHVS.exe
 
 # Logs and reports
 *.log
